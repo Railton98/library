@@ -15,6 +15,8 @@
 - Login com `JWT - Json Web Tokens`
 - Crud de Publicações (Livros/Revistas)
 
-## Acesse
-- [Site](https://railton98.github.io/library/)
-- [Código Fonte](https://github.com/Railton98/library-spa)
+## [Acesse](https://railton98.github.io/library/) a aplicação
+
+## Código Fonte
+- [SPA](https://github.com/Railton98/library-spa) com Vue.js
+- [API](https://github.com/Railton98/library-api) com Laravel
